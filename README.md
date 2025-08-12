@@ -36,11 +36,14 @@ Dictionary Attack: An attack that tries to guess a password using a pre-compiled
 
 Authentication: The process of verifying a user's identity.
 
+
+
+
+Best Practices: Recommended guidelines for creating and managing secure passwords.
+
 Author:
 
 Pusarla Vinay
 
 
 
-
-Best Practices: Recommended guidelines for creating and managing secure passwords.
